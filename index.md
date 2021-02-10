@@ -4,7 +4,7 @@ layout: default
 
 # Bio
 
-I am an astrophysicist currently working at Institut de Recherche et Planétologie (IRAP) in Toulouse, France. I am interested in solar and stellar winds, space plasmas, turbulence. I use heavy numerical simulations and theory to explain the in situ and remote sensing observations of space observatories like Parker Solar Probe and Solar Orbiter.
+I am an astrophysicist currently working at Institut de Recherche et Planétologie (IRAP) in Toulouse, France. I am interested in solar and stellar winds, space plasmas and MHD turbulence. I use heavy numerical simulations and theory to explain the in situ and remote sensing observations of space observatories like Parker Solar Probe and Solar Orbiter.
 
 # Publications
 
