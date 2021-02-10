@@ -12,8 +12,8 @@ I am an astrophysicist currently working at Institut de Recherche et Planétolog
 
 # Collaborations
 
-* Solar Orbiter
-* Parker Solar Probe
+* Solar Orbiter ![Octocat](https://icongr.am/octicons/star.svg?size=128&color=currentColor)
+* Parker Solar Probe ![Octocat](https://icongr.am/octicons/star.svg?size=128&color=currentColor)
 
 # Codes
 
