@@ -8,7 +8,7 @@ I am an astrophysicist currently working at Institut de Recherche et Planétolog
 
 # Publications
 
-[Check my ADS record here](https://ui.adsabs.harvard.edu/search/q=author%3A%22%5ER%C3%A9ville%2C%20V%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+[Check my ADS record here](https://ui.adsabs.harvard.edu/search/filter_property_fq_property=AND&filter_property_fq_property=property%3A%22refereed%22&fq=%7B!type%3Daqp%20v%3D%24fq_property%7D&fq_property=(property%3A%22refereed%22)&q=author%3A%22R%C3%A9ville%2C%20V%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 
 # Collaborations
 
