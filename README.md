@@ -1,2 +1,3 @@
-Personal website of Victor Réville
+# Personal website of Victor Réville
+
 Hosted on GitHub Pages
