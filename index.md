@@ -14,7 +14,6 @@ I am an astrophysicist working at Institut de Recherche en Astrophysique et Plan
 
 * Solar Orbiter
 * Parker Solar Probe
-* COSPAR International Space Weather Action Team
 
 # Codes
 
