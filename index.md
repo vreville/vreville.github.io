@@ -15,7 +15,7 @@ I am an astrophysicist working at Institut de Recherche en Astrophysique et Plan
 * Solar Orbiter
 * Parker Solar Probe
 
-# Codes I am using
+# Codes I am using / contributing to
 
 * [PLUTO](http://plutocode.ph.unito.it/)
 * [Idefix](https://github.com/idefix-code/idefix)
