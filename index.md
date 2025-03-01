@@ -6,7 +6,7 @@ layout: default
 
 I am an astrophysicist working at Institut de Recherche en Astrophysique et Planétologie (IRAP) in Toulouse, France. I am interested in solar and stellar winds, space plasmas, MHD turbulence and reconnection. I use numerical simulations and theory to explain the in situ and remote sensing observations of space observatories like Parker Solar Probe and Solar Orbiter.
 
-Here is a full [cv](https://github.com/vreville/vreville.github.io/vreville_full.pdf
+Here is a full [cv](https://github.com/vreville/vreville.github.io/vreville_full.pdf)
 
 # Publications
 
