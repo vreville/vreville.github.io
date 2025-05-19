@@ -14,8 +14,8 @@ Here is a full [cv](https://github.com/vreville/vreville.github.io/blob/main/vre
 
 # International Collaborations
 
-* Solar Orbiter
-* Parker Solar Probe
+* [Solar Orbiter](https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter)
+* [Parker Solar Probe](https://science.nasa.gov/mission/parker-solar-probe/)
 
 # Codes I am using / contributing to
 
