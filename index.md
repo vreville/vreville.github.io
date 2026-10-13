@@ -10,7 +10,7 @@ Here is a full [cv](https://github.com/vreville/vreville.github.io/blob/main/vre
 
 # Publications
 
-[Check my ADS record here](https://ui.adsabs.harvard.edu/search/filter_property_fq_property=AND&filter_property_fq_property=property%3A%22refereed%22&fq=%7B!type%3Daqp%20v%3D%24fq_property%7D&fq_property=(property%3A%22refereed%22)&q=author%3A%22R%C3%A9ville%2C%20V%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+[Check my SciX record here](https://scixplorer.org/search?fq=%7B%21type%3Daqp+v%3D%24fq_property%7D&fq_property=%28property%3A%22refereed%22%29&p=1&q=author%3A%22R%C3%A9ville%2C+V%22&sort=date+desc&d=astrophysics)
 
 # International Collaborations
 
